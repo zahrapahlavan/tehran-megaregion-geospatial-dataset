@@ -1,15 +1,13 @@
 # Data
 
-This directory contains datasets used for geospatial analysis and spatial planning research.
+This directory contains input datasets used in the geospatial analysis of the Tehran Megaregion.
 
-## Data Types
+Datasets include:
 
-* Vector datasets
-* Raster datasets
-* Administrative boundaries
-* Environmental indicators
-* Land-use and land-cover data
+* MODIS NDVI
+* ERA5-Land Climate Data
+* Sentinel-5P Air Quality Data
+* JRC Global Surface Water
+* SRTM Digital Elevation Model
 
-## Note
-
-Only datasets that can be publicly shared are included in this repository.
+Data sources are publicly available through Google Earth Engine.
