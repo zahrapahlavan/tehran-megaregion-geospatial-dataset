@@ -1,12 +1,11 @@
-# Outputs
+ر# Maps
 
-This directory contains processed outputs generated from Google Earth Engine workflows.
+This directory contains map layouts and cartographic outputs produced from the analysis.
 
 Examples include:
 
-* GeoTIFF raster layers
-* Vector datasets
-* Statistical summaries
-* Derived environmental indicators
-
-Outputs are intended for further analysis and visualization in GIS software.
+* NDVI change maps
+* Air quality maps
+* Surface water maps
+* Temperature and precipitation maps
+* Terrain and hydrological maps
