@@ -1,20 +1,11 @@
 # Maps
 
-This directory contains cartographic outputs and thematic maps developed during research on climate resilience, metropolitan development, and spatial planning in the Tehran Metropolitan Region.
+This directory contains map layouts and cartographic outputs produced from the analysis.
 
-## Contents
+Examples include:
 
-* Climate resilience maps
-* Land-use and land-cover maps
-* Metropolitan growth and urban expansion maps
-* Spatial indicators and planning maps
-* GIS-based visualization outputs
-
-## Software
-
-* ArcGIS Pro
-* Google Earth Engine
-
-## Notes
-
-Maps included in this repository are intended for research and academic purposes.
+* NDVI change maps
+* Air quality maps
+* Surface water maps
+* Temperature and precipitation maps
+* Terrain and hydrological maps
