@@ -1,48 +1,11 @@
 /*
-Surface Water Change Analysis (2009–2021)
+Surface Water Assessment (2009–2021)
 
-Study Area:
-Tehran Megaregion
+Study Area: Tehran Megaregion, Iran
+Datasets: JRC Global Surface Water, ESA WorldCover
 
-Datasets:
-- JRC Global Surface Water
-- ESA WorldCover 2021
-
-Objective:
-Comparison of surface water resources between 2009 and 2021.
-
-Methods:
-- Water extraction
-- Temporal comparison
-- GIS export
-
-Author:
-Zahra Pahlavan
-University of Tehran
+Author: Zahra Pahlavan
 */
-/*
-===============================================================================
-Surface Water Change Analysis (2009–2021)
-===============================================================================
-
-Study Area:
-Tehran Megaregion (Tehran and Alborz Provinces), Iran
-
-Datasets:
-- JRC Global Surface Water (2009)
-- ESA WorldCover 2021
-
-Objective:
-Compare surface water distribution between 2009 and 2021
-using Earth Observation datasets.
-
-Outputs:
-- Surface Water Map (2009)
-- Surface Water Map (2021)
-
-Author:
-Zahra Pahlavan
-University of Tehran
 
 ===============================================================================
 */
