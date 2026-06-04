@@ -1,48 +1,11 @@
 /*
 NDVI Change Analysis (2009–2021)
 
-Study Area:
-Tehran Megaregion (Tehran and Alborz Provinces)
+Study Area: Tehran Megaregion, Iran
+Dataset: MODIS MOD13A2 (Version 6.1)
 
-Dataset:
-MODIS MOD13A2 Version 6.1
-
-Objective:
-Assessment of vegetation condition changes between 2009 and 2021.
-
-Methods:
-- Annual NDVI compositing
-- Temporal comparison
-- Change detection
-- GIS export
-
-Author:
-Zahra Pahlavan
-University of Tehran
+Author: Zahra Pahlavan
 */
-/*
-===============================================================================
-NDVI Change Analysis (2009–2021)
-===============================================================================
-
-Study Area:
-Tehran Megaregion (Tehran and Alborz Provinces), Iran
-
-Dataset:
-MODIS MOD13A2 Version 6.1
-
-Objective:
-Assess vegetation condition changes between 2009 and 2021 using
-annual mean NDVI composites.
-
-Outputs:
-- NDVI 2009
-- NDVI 2021
-- NDVI Change (2021–2009)
-
-Author:
-Zahra Pahlavan
-University of Tehran
 
 ===============================================================================
 */
