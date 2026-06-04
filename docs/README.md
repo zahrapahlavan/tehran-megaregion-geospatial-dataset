@@ -1,25 +1,10 @@
 # Documentation
 
-This directory contains research documentation related to climate resilience, metropolitan development, and spatial planning studies.
+This directory contains methodological notes, workflow descriptions, and supporting documentation related to the geospatial analysis.
 
-## Contents
+Contents may include:
 
-* Project descriptions
+* Processing workflows
+* Metadata documentation
 * Methodological notes
-* Research summaries
-* Technical reports
-* Conference materials
-* Supporting documentation
-
-## Research Themes
-
-* Climate resilience
-* Regional and metropolitan planning
-* Land-use dynamics
-* Spatial development
-* Environmental sustainability
-* Geospatial analytics
-
-## Note
-
-Documentation is intended to improve transparency, reproducibility, and understanding of the research workflows contained in this repository.
+* Project reports
