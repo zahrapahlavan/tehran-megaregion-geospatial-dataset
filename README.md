@@ -1,34 +1,28 @@
 # Tehran Megaregion Geospatial Dataset
 
-## Overview
-
-This repository contains geospatial datasets and derived spatial indicators developed during research on climate resilience, metropolitan development, and regional spatial planning in the Tehran Metropolitan Region.
-
-## Study Area
-
-Tehran Metropolitan Region, Iran
-
-## Applications
-
-* Climate resilience assessment
-* Metropolitan planning
-* Spatial development analysis
-* Land-use monitoring
-* Environmental planning
-
-## Tools
-
-* ArcGIS Pro
-* Google Earth Engine
-* Python
-* Remote Sensing
+A collection of Google Earth Engine workflows and geospatial datasets developed for environmental, climatic, hydrological, and urban analysis of the Tehran Megaregion, Iran.
 
 ## Repository Structure
 
-data/
-maps/
-outputs/
-docs/
+* `scripts/` : Google Earth Engine workflows
+* `data/` : Input datasets and metadata
+* `outputs/` : Processed geospatial outputs
+* `maps/` : Cartographic products and map layouts
+* `docs/` : Technical documentation
+
+## Environmental Indicators
+
+* NDVI Change
+* Air Quality (NO₂ and CO)
+* Surface Water
+* Temperature Change
+* Precipitation Change
+* Digital Elevation Model (DEM)
+* Terrain Slope
+
+## Study Area
+
+Tehran Megaregion, Iran
 
 ## Author
 
