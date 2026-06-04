@@ -1,30 +1,25 @@
 # Scripts
 
-This directory contains scripts developed for geospatial analysis, remote sensing, and spatial planning research.
+Google Earth Engine scripts developed for climate resilience and geospatial analysis in the Tehran Megaregion.
 
-## Contents
+## Available Scripts
 
-* Google Earth Engine scripts
-* Python workflows
-* Spatial data processing tools
-* Land-use change analysis
-* Machine learning workflows
-* GIS automation scripts
+### surface_water_change_analysis.js
 
-## Applications
+Comparison of surface water resources between 2009 and 2021 using:
 
-* Climate resilience assessment
-* Metropolitan expansion analysis
-* Environmental monitoring
-* Spatial indicator generation
-* Earth observation data processing
+- JRC Global Surface Water
+- ESA WorldCover
 
-## Technologies
+Outputs:
+- Surface water map (2009)
+- Surface water map (2021)
 
-* Python
-* Google Earth Engine
-* ArcGIS Pro
+### ndvi_change_analysis.js
 
-## Note
+Vegetation condition assessment using MODIS NDVI.
 
-Scripts are provided for research and educational purposes and may require adaptation for specific datasets.
+Outputs:
+- NDVI 2009
+- NDVI 2021
+- NDVI Change Map
